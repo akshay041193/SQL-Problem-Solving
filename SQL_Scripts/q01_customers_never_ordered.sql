@@ -46,5 +46,3 @@ WHERE NOT EXISTS (
     FROM orders o
     WHERE o.customer_id = c.customer_id
 );
-
-/
