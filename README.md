@@ -38,7 +38,3 @@ Questions are grouped by the core SQL concept they practice. Each file below is 
 16. Calculate the median salary — *Window Functions*
 17. Extract first name, last name, initials, and email domain from raw text fields — *String Functions*
 18. Find each customer's first and last order date — *Aggregation*
-
----
-
-New questions are added to the relevant concept file as they come in; the index above is kept in sync.
